@@ -2,6 +2,9 @@
 
 A virtual reality shooter game developed as a project and learning experience. This game allows players to fire bullets at target dummies, experience VR hand animations, and see real-time score updates. Built using Unity's XR Interaction Toolkit, this game is compatible with external VR headsets or can be used with the XR Simulator for those without VR hardware.
 
+## Video Demo
+
+
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
